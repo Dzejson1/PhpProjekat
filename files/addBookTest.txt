@@ -1,0 +1,9 @@
+title:Book Editors Talk to Writers
+author:Judy Mandell
+description:
+image:Slika_6
+Working editors share inside information on how book publishing really works
+Based on penetrating interviews with 44 experienced editors, this essential guide gives you the lowdown on everything you need to know to get published faster and easier. No matter what publishing category you want to break into—fiction, cookbooks, self-help, computer books, science fiction, mysteries, reference, or children's books—you'll find the information you need from an editor who specializes in that area. 
+price:15
+publisherid:8
+categoryid:5
